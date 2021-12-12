@@ -19,6 +19,7 @@ public class CollectionTests {
         a.addAll(0,ar);
         a.add(2,"TWO");
         System.out.println(a);
+        System.out.println(a);
         System.out.println(a.size());
 
     }
